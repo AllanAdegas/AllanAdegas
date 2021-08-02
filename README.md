@@ -1,7 +1,7 @@
 ### Hi, my name is Allan
 
 
-- 📕 Computer engineering - UTFPR/PR-Br
+- 📕 Computer engineering - UTFPR/PR-BR
 - 🌱 Learning JavaScript and C
 - 🤔 I’m looking for help with JS
 - 📫 How to reach me: allansimoesadegas11@gmail.com
