@@ -1,37 +1,27 @@
-# Olá, eu sou o Allan Simões Adegas 👋
+# Allan Simões Adegas
 
-### **Software Engineer | Python, Automação & IA**
+**Engenheiro de Software · Backend, IA Aplicada e Cloud**
 
-Atualmente, atuo como **Desenvolvedor de Software no BTG Pactual**, onde projeto sistemas de automação e inteligência artificial para otimizar operações financeiras em toda a América Latina (Brasil, Chile, Colômbia e México). Meu foco é o ciclo completo do dado: da coleta automatizada em larga escala ao processamento inteligente e visualização estratégica.
+Desenvolvo APIs, sistemas orientados a eventos e aplicações com LLMs em Python. Também trabalho com React para entregar produtos de ponta a ponta. Sou formado em Engenharia de Computação pela UTFPR e moro em Londrina, PR.
 
----
+## Experiência
 
-### 🛠️ Minha Stack
+- **The Soil Company** · Sou responsável pela infraestrutura no Google Cloud e desenvolvo uma plataforma de consultoria agronômica com Python e React. Liderei uma migração de nuvem que reduziu os custos em cerca de **30%**.
+- **BTG Pactual** · Desenvolvi APIs assíncronas com FastAPI e microsserviços orientados a eventos na AWS para monitorar transações. Criei um revisor de e-mails com LLM que validava dados extraídos contra uma API interna e economizava **mais de 220 horas de trabalho manual por mês**.
 
-- **Linguagens & Backend:** 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## Projetos
 
-- **IA & Automação:** 
- ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
- ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
- ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+- [**KnowledgeDesk**](https://github.com/AllanAdegas/KnowledgeDesk) · Assistente local para consulta a documentos, com RAG, respostas com indicação das fontes e um agente LangGraph que busca e resume arquivos. Usa Python, FastAPI, Ollama e React.
+- **ReconAgent** *(em desenvolvimento)* · Concilia e-mails de confirmação de operações com registros de um ledger usando dados sintéticos. O LangGraph orquestra a extração com LLM e a validação determinística dos dados. Divergências seguem para revisão humana. O projeto inclui uma suíte de avaliação offline.
+- **Pier** · Plataforma self-hosted para deploy em servidores próprios, com HTTPS, verificação de prontidão e rollback automático. Desenvolvida com Go e SolidJS, com suporte a Docker e Kubernetes.
 
-- **Frontend & Visualização:** 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Tecnologias
 
-- **Cloud & Infra:** 
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- ![Dcoker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- **Backend e dados** · Python, FastAPI, PostgreSQL
+- **IA aplicada** · LangChain, LangGraph, RAG, saídas estruturadas e avaliação de agentes
+- **Cloud e entrega** · AWS (Lambda, SQS, DynamoDB e S3), Google Cloud, Docker e GitHub Actions
+- **Frontend** · React e TypeScript
 
----
+## Contato
 
-### 📫 Como me encontrar
-
-- **LinkedIn:** [linkedin.com/in/allan-simoes-adegas](https://www.linkedin.com/in/allan-simoes-adegas)
-- **Email:** [allansimoesadegas11@gmail.com](mailto:allansimoesadegas11@gmail.com)
-
-*"Transformando dados complexos em automações simples e interfaces inteligentes."*
+[LinkedIn](https://www.linkedin.com/in/allan-simoes-adegas) · [E-mail](mailto:allansimoesadegas11@gmail.com)
