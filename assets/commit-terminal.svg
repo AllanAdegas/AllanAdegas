@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="155" viewBox="0 0 740 155" role="img" aria-labelledby="title desc">
+  <title id="title">A few commits I could have made</title>
+  <desc id="desc">Three fictional commit messages about retries, validating AI output, and cloud costs.</desc>
+  <style>
+    text { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 14px; }
+    .activity { animation: pulse 4s ease-in-out infinite; transform-origin: 712px 21px; }
+    .cursor { animation: blink 1.2s step-end infinite; }
+    @keyframes pulse { 50% { transform: scale(1.6); opacity: .35; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .activity, .cursor { animation: none; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="739" height="154" rx="12" fill="#0D1726" stroke="#35445C"/>
+  <path d="M1 42h738" stroke="#35445C"/>
+  <circle cx="21" cy="21" r="4.5" fill="#FF7B72"/>
+  <circle cx="37" cy="21" r="4.5" fill="#F2CC60"/>
+  <circle cx="53" cy="21" r="4.5" fill="#7EE787"/>
+  <text x="73" y="26" fill="#B7C7DC">commit messages I could have written</text>
+  <circle class="activity" cx="712" cy="21" r="4.5" fill="#7EE787"/>
+  <g fill="#E6EDF3">
+    <text x="20" y="69"><tspan fill="#7EE787">$</tspan> git commit -m "fix: teach retries to stop retrying"</text>
+    <text x="20" y="94"><tspan fill="#7EE787">$</tspan> git commit -m "feat: make the LLM show its work"</text>
+    <text x="20" y="119"><tspan fill="#7EE787">$</tspan> git commit -m "chore: make the cloud bill less exciting"</text>
+    <text x="20" y="143" fill="#7EE787">$</text>
+  </g>
+  <rect class="cursor" x="38" y="132" width="8" height="13" rx="1" fill="#7EE787"/>
+</svg>

@@ -4,6 +4,8 @@
 
 I build APIs, event-driven systems, and LLM applications in Python. I also work with React to ship products end to end. I hold a degree in Computer Engineering from UTFPR and am based in Londrina, Brazil.
 
+![Animated terminal with fictional commit messages about retries, AI output, and cloud costs](./assets/commit-terminal.svg)
+
 ## Experience
 
 - **The Soil Company** · I manage Google Cloud infrastructure and build an agronomy consulting platform with Python and React. I led a cloud migration that reduced costs by about **30%**.
@@ -17,19 +19,11 @@ I build APIs, event-driven systems, and LLM applications in Python. I also work 
 
 ## Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-00796B?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Go](https://img.shields.io/badge/Go-007D9C?logo=go&logoColor=white)
+![Python, TypeScript, Go, FastAPI, React, and PostgreSQL](https://skillicons.dev/icons?i=py,ts,go,fastapi,react,postgres&theme=dark)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-265B56?logo=langgraph&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-2455AE?logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-145DA0?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-204DA8?logo=githubactions&logoColor=white)
+![AWS, Google Cloud, Docker, Kubernetes, and GitHub Actions](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions&theme=dark)
+
+I build LLM workflows with **LangChain** and **LangGraph**, using structured outputs, validation, and offline evaluations.
 
 ## Contact
 
