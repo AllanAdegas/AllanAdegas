@@ -8,7 +8,7 @@ I build APIs, event-driven systems, and LLM applications in Python. I also work 
 
 ## Experience
 
-- **The Soil Company** · I manage Google Cloud infrastructure and build an agronomy consulting platform with Python and React. I led a cloud migration that reduced costs by about **30%**.
+- **The Soil Company** · I manage Google Cloud infrastructure and build an agronomy consulting platform with C#, Python and React. I led a cloud migration that reduced costs by about **30%**.
 - **BTG Pactual** · I built asynchronous FastAPI services and event-driven microservices on AWS to monitor financial transactions. I developed an LLM-powered email review tool that validated extracted data against an internal API and saved **more than 220 hours of manual work per month**.
 
 ## Projects
